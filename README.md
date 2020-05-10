@@ -22,6 +22,7 @@ Some notes:
 - [ ] Buy registered agent service in DE - **1 yr Free**
 - [ ] File incorporation docs with DE - **~$150 including fees for 1 week service**
   - You can do this yourself, but it will probably take longer and not save you much money
+  - Make sure the County of the registered agent is included in the address on the Certificate of Incorporation
 
 #### First steps with the IRS
 - [ ] Apply for a Federal Employer Identification Number (EIN) - **Free**
